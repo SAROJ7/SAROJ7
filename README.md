@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web Development, Blockchain, DBMS **
 
-- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://playful-griffin-a74408.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
